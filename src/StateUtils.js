@@ -146,7 +146,6 @@ const StateUtils = {
 
     return {
       ...state,
-      index,
       routes,
     };
   },
